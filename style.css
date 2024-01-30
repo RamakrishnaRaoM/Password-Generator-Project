@@ -1,0 +1,22 @@
+.whole {
+  border: 2px solid black;
+  min-width: 500px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+}
+.genarate {
+  background-color: rgb(69, 69, 167);
+  color: white;
+}
+.copy {
+  background-color: rgb(69, 69, 167);
+  color: white;
+}
+.inp {
+  color: white;
+  background-color: black;
+}
